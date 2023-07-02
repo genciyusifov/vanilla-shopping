@@ -1,0 +1,8 @@
+#loading-indicator {
+    display: none; /* Hide the loading indicator by default */
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: #999;
+  }
+  
